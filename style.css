@@ -1,0 +1,26 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+nav{
+  text-align: center;
+
+}
+
+.Logo{
+  width: 213px;
+}
+
+#titolo{
+  color: lime;
+}
+
+.buttoncolor{
+  background-color: lime;
+  background-size:  auto;
+}
+
+.title{
+  text-align: center;
+}
